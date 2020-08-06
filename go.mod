@@ -1,4 +1,4 @@
-module awesomeProject3
+module github.com/farwydi/tgfsmex
 
 go 1.14
 

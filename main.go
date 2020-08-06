@@ -1,10 +1,11 @@
 package main
 
 import (
-	"awesomeProject3/xfsm"
 	"fmt"
-	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 	"log"
+
+	"github.com/farwydi/tgfsmex/xfsm"
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 )
 
 func main() {
